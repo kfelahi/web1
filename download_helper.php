@@ -37,6 +37,11 @@
  * @param	mixed	the data to be downloaded
  * @return	void
  */
+
+
+/*
+This is simple change for github
+*/
 if ( ! function_exists('force_download'))
 {
 	function force_download($filename = '', $data = '')
